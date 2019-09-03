@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">getResources</string>
+    <string name="dialog_audio">Audio DIalog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

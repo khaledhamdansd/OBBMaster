@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/ivClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/transparent"
+        android:padding="15dp"
+        android:src="@drawable/ic_close" />
+
+    <ImageView
+        android:id="@+id/ivDIalog"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:padding="30dp"
+        android:layout_gravity="center"
+        android:src="@color/colorPrimary"/>
+
+
+</LinearLayout>
